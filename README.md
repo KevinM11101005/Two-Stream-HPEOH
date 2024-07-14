@@ -2,7 +2,14 @@
 ## Introduction
 This repository is the offical [Pytorch](https://pytorch.org/) implementation of **Two-Stream Hand Pose Estimation for Occluded Hands**. Below is the overall pipeline of Two-Stream-HPEOH.
 ![overall pipeline](./asset/framework.png)
+
 ## Directory
+### Environment
+You can refer to the following three github:
+[HandOccNet](https://github.com/namepllet/HandOccNet)
+[UNeXt](https://github.com/jeya-maria-jose/UNeXt-pytorch)
+[MMPose](https://mmpose.readthedocs.io/en/latest/installation.html)
+
 ### Root  
 The `${ROOT}` is described as below.  
 ```  
