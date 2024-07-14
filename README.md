@@ -6,9 +6,9 @@ This repository is the offical [Pytorch](https://pytorch.org/) implementation of
 ## Directory
 ### Environment
 You can refer to the following three github:
-[HandOccNet](https://github.com/namepllet/HandOccNet)
-[UNeXt](https://github.com/jeya-maria-jose/UNeXt-pytorch)
-[MMPose](https://mmpose.readthedocs.io/en/latest/installation.html)
+* [HandOccNet](https://github.com/namepllet/HandOccNet)
+* [UNeXt](https://github.com/jeya-maria-jose/UNeXt-pytorch)
+* [MMPose](https://mmpose.readthedocs.io/en/latest/installation.html)
 
 ### Root  
 The `${ROOT}` is described as below.  
