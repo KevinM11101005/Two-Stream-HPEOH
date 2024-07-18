@@ -67,6 +67,6 @@ ${ROOT}
 
 ### Quick demo
 * if you want to use config backbone `fpn`
-* Run FPN_main.py
+* Run `FPN_main.py`
 * if you want to use config backbone `unext`
-* Run UX_HON_main.py
+* Run `UX_HON_main.py`
