@@ -65,7 +65,7 @@ ${ROOT}
 * `result` folder contains final estimation files generated in the testing stage.  
 * `vis` folder contains visualized results.
 
-### Quick demo
+### Quick implement
 * if you want to use config backbone `fpn`
 * Run `FPN_main.py`
 * if you want to use config backbone `unext`
